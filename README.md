@@ -1,6 +1,13 @@
 # hack-rubika
 ## hey guys !
 
+____________________
+
+[![Python 3|3.9|3.x](https://img.shields.io/badge/python-3|3.0|3.x-yellow.svg)](https://www.python.org/)
+[![creator: ](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ANTIweak)
+[![my id](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/creator_ryson)
+
+____________________
 a tool for crack and hack and login to rubika messenger.
 
 یک ابزار ساده برای کرک و هک اکانت روبیکا !
